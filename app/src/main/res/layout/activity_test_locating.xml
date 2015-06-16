@@ -9,6 +9,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="获取位置" />
+    <!-- 周边检索 -->
+    <Button
+        android:id="@+id/btnGetSchool"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获得学校" />
     <!-- 显示获取到的省份 -->
     <LinearLayout
         android:layout_width="match_parent"

@@ -3,6 +3,7 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/ThirdParty/SlidingMenu" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/BaiduLBS_Android.jar" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/androidTest/java/com/rangers/soccergo/ApplicationTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/assets/config" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/assets/config/footer_items.json" charset="UTF-8" />
@@ -14,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/rangers/soccergo/uis/ViewHolder.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/rangers/soccergo/utils/ACache.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/rangers/soccergo/utils/Validator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/armeabi/libBaiduMapSDK_v3_4_0_15.so" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/jniLibs/armeabi/liblocSDK5.so" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sliding_shadow.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/footer_icon_challenge.png" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/footer_icon_challenge_actived.png" charset="GBK" />
